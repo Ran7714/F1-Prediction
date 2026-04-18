@@ -42,9 +42,6 @@ requirements.txt: Necessary dependencies to run the app.
 circuits.csv: Reference data for the circuit mapping.
 
 Installation & Usage
-Clone the Repository:
-git clone https://github.com/yourusername/f1-predictor-2026.git
-cd f1-predictor-2026
 
 Install Dependencies:
 pip install -r requirements.txt
